@@ -3,6 +3,8 @@ body{
   color: #1F3F5F;
   line-height: 125%;
   background-image: url(./depositphotos_68398807-stock-photo-white-wrinkled-paper-texture.jpg);
+  width: 60%;
+  margin: 0 auto;
 }
 
 h1{
@@ -21,7 +23,9 @@ h1, h2{
   background-color: #EBEBEB;
   padding: 10px 35px;
   font-size: 75%;
-  border: 1px 0px solid #3F4F5F;
+  border-top: 1px solid #3F4F5F;
+  border-bottom: 1px solid #3F4F5F;
+
 }
 
 #brikettek{
